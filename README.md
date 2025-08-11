@@ -1,15 +1,14 @@
 # Ali-housseny
 <!-- ========================= -->
-<!--      YOUSEF’S README     -->
+<!--      ALI'S README     -->
 <!-- ========================= -->
 
 
 <p align="center">
-  <h1>Hey there, I’m <a href="https://yousefdergham.vercel.app/">Yousef Dergham</a> 👋</h1>
+  <h1>Hey there, I’m >ALI HOUSSENY</a> 👋</h1>
   <p><em>Full-stack Web Developer · CS Student · Coffee Lover ☕</em></p>
-  <p>📅 <strong>Last updated:</strong> August 6, 2025</p>
-  <p>💼 <strong>Current:</strong> Software Engineer at <a href="almdrasa.com" target="_blank">Almadrsa</p>
-</p>
+
+
 
 ---
 ## 🚀 About Me
@@ -18,7 +17,7 @@
 <img  src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" alt="Coding GIF" style="z-index:99;"/>
 </div>
   <div align="left">
-    I am a Software Engineer skilled in React, Next.js, WordPress, PHP, and more. I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
+    I am a Software Engineer  
   </div>
 
 ## 🔧 My Tech Stack
